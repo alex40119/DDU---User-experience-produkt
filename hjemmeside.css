@@ -1,0 +1,57 @@
+body{
+    background-color: aliceblue;
+}
+
+#button {
+    top: 10%;
+    left: 5%;
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    background: lightblue;
+}
+
+#webcam-container {
+    top: 0%;
+    left: 65%;
+    position: absolute;
+}
+
+#tryk {
+    top: 5%;
+    left: 10%;
+    position: absolute;
+}
+
+#label-container {
+    top: 0%;
+    left: 57.5%;
+    position: absolute;
+}
+
+#skriv {
+    top: 23%;
+    left: 10.5%;
+    position: absolute;
+}
+
+#ord {
+    top: 30%;
+    left: 13%;
+    position: absolute;
+}
+
+#input {
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 85%;
+    left: 45%;
+}
+
+#image {
+    width: 35%;
+    top: 10%;
+    left: 37.5%;
+    position: absolute;
+}
